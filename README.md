@@ -24,10 +24,37 @@
 # Setup
   - A terminal client
   - Java 8 or higher
+
+    [Install JRE on Mac](https://java.com/en/download/help/mac_install.xml)
+
+    *or* 
+    
+    use *Brew* package manager `brew cask install java`
+
   - [Clojure](https://clojure.org/)
+
+     Install **Clojure** on Mac using *Brew* package manager- `brew install clojure`
+
   - [Leiningen](https://leiningen.org/)
+
+    Install **Leiningen** on Mac using *Brew* package manager- `brew install leiningen`
+    
   - [Emacs](https://www.gnu.org/software/emacs/)
-  - Setup Emacs with https://github.com/koljure/beginning-clojure-emacs.d
+
+    Install **Emacs** on Mac using *Brew* package manager- `brew cask install emacs`
+    
+    Setup Emacs on Mac:-
+    1) `cd` into directory of choice.
+    2) `git clone https://github.com/koljure/beginning-clojure-emacs.d.git`
+    3) `cd beginning-clojure-emacs.d/`
+    4) `mkdir -p ~/.emacs.d`
+    5) `mv init.el ~/.emacs.d/`
+
+# Read online 
+* [Brave Clojure](https://www.braveclojure.com/foreword/)
+* [Living Clojure](https://www.oreilly.com/library/view/living-clojure/9781491909270/)
+
 # Copyright and license
 - Copyright © 2019-2020 Koljure.
 - Distributed under the EPL license.
+
