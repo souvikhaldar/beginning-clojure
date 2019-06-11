@@ -24,20 +24,20 @@
 
 # Setup
 
-  ## General 
-  - A terminal client
+    * General 
+      - A terminal client
 
-  - Java 8 or higher
+      - Java 8 or higher
 
-  - [Clojure](https://clojure.org/)
+      - [Clojure](https://clojure.org/)
 
-  - [Leiningen](https://leiningen.org/)
+      - [Leiningen](https://leiningen.org/)
 
-  - [Emacs](https://www.gnu.org/software/emacs/) 
+      - [Emacs](https://www.gnu.org/software/emacs/) 
 
-  ## Sample setup guide (for Mac)
+    * Sample setup guide (for Mac)
 
-      1) Java 8 or higher
+      - Java 8 or higher
 
         [Install JRE on Mac](https://java.com/en/download/help/mac_install.xml)
 
@@ -45,15 +45,15 @@
         
         use *Brew* package manager `brew cask install java`
 
-      2) [Clojure](https://clojure.org/)
+      - [Clojure](https://clojure.org/)
 
           Install **Clojure** using *Brew* package manager- `brew install clojure`
 
-      3) [Leiningen](https://leiningen.org/)
+      - [Leiningen](https://leiningen.org/)
 
           Install **Leiningen** using *Brew* package manager- `brew install leiningen`
       
-      4) [Emacs](https://www.gnu.org/software/emacs/)
+      - [Emacs](https://www.gnu.org/software/emacs/)
 
           Install **Emacs** using *Brew* package manager- `brew cask install emacs`
 
