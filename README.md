@@ -31,10 +31,10 @@
   - [Emacs](https://www.gnu.org/software/emacs/) 
 
 * Sample setup guide (for Mac)
-  - Java 8 or higher
-    [Install JRE on Mac](https://java.com/en/download/help/mac_install.xml) 
-    *or*      
-    use *Brew* package manager `brew cask install java` 
+  - Java 8 or higher  
+    [Install JRE on Mac](https://java.com/en/download/help/mac_install.xml)   
+    *or*       
+    use *Brew* package manager `brew cask install java`   
 
   - [Clojure](https://clojure.org/)
       Install **Clojure** using *Brew* package manager- `brew install clojure`
