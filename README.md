@@ -35,34 +35,34 @@
 
   - [Emacs](https://www.gnu.org/software/emacs/) 
 
-## Sample setup guide (for Mac)
+  ## Sample setup guide (for Mac)
 
-    1)Java 8 or higher
+      1) Java 8 or higher
 
-      [Install JRE on Mac](https://java.com/en/download/help/mac_install.xml)
+        [Install JRE on Mac](https://java.com/en/download/help/mac_install.xml)
 
-      *or* 
+        *or* 
+        
+        use *Brew* package manager `brew cask install java`
+
+      2) [Clojure](https://clojure.org/)
+
+          Install **Clojure** using *Brew* package manager- `brew install clojure`
+
+      3) [Leiningen](https://leiningen.org/)
+
+          Install **Leiningen** using *Brew* package manager- `brew install leiningen`
       
-      use *Brew* package manager `brew cask install java`
+      4) [Emacs](https://www.gnu.org/software/emacs/)
 
-    2) [Clojure](https://clojure.org/)
+          Install **Emacs** using *Brew* package manager- `brew cask install emacs`
 
-        Install **Clojure** using *Brew* package manager- `brew install clojure`
-
-    3) [Leiningen](https://leiningen.org/)
-
-        Install **Leiningen** using *Brew* package manager- `brew install leiningen`
-    
-    4) [Emacs](https://www.gnu.org/software/emacs/)
-
-        Install **Emacs** using *Brew* package manager- `brew cask install emacs`
-
-        Setup Emacs on Mac-
-        1) `cd` into directory of choice.
-        2) `git clone https://github.com/koljure/beginning-clojure-emacs.d.git`
-        3) `cd beginning-clojure-emacs.d/`
-        4) `mkdir -p ~/.emacs.d`
-        5) `mv init.el ~/.emacs.d/`     
+          Setup Emacs on Mac-
+          1) `cd` into directory of choice.
+          2) `git clone https://github.com/koljure/beginning-clojure-emacs.d.git`
+          3) `cd beginning-clojure-emacs.d/`
+          4) `mkdir -p ~/.emacs.d`
+          5) `mv init.el ~/.emacs.d/`     
     
 
 # Resources
