@@ -21,9 +21,24 @@
 - Editor wars
 - Wars ...
 - Superiority of FP
+
 # Setup
+
+  ## General 
   - A terminal client
+
   - Java 8 or higher
+
+  - [Clojure](https://clojure.org/)
+
+  - [Leiningen](https://leiningen.org/)
+
+  - [Emacs](https://www.gnu.org/software/emacs/)
+
+
+  ## Sample setup guide for Mac
+
+    1) - Java 8 or higher
 
     [Install JRE on Mac](https://java.com/en/download/help/mac_install.xml)
 
@@ -31,26 +46,27 @@
     
     use *Brew* package manager `brew cask install java`
 
-  - [Clojure](https://clojure.org/)
+    2) [Clojure](https://clojure.org/)
 
-     Install **Clojure** on Mac using *Brew* package manager- `brew install clojure`
+     Install **Clojure** using *Brew* package manager- `brew install clojure`
 
-  - [Leiningen](https://leiningen.org/)
+    3) [Leiningen](https://leiningen.org/)
 
-    Install **Leiningen** on Mac using *Brew* package manager- `brew install leiningen`
+    Install **Leiningen** using *Brew* package manager- `brew install leiningen`
     
-  - [Emacs](https://www.gnu.org/software/emacs/)
+    4) [Emacs](https://www.gnu.org/software/emacs/)
 
-    Install **Emacs** on Mac using *Brew* package manager- `brew cask install emacs`
+    Install **Emacs** using *Brew* package manager- `brew cask install emacs`
+
+      Setup Emacs on Mac-
+      1) `cd` into directory of choice.
+      2) `git clone https://github.com/koljure/beginning-clojure-emacs.d.git`
+      3) `cd beginning-clojure-emacs.d/`
+      4) `mkdir -p ~/.emacs.d`
+      5) `mv init.el ~/.emacs.d/` 
     
-    Setup Emacs on Mac:-
-    1) `cd` into directory of choice.
-    2) `git clone https://github.com/koljure/beginning-clojure-emacs.d.git`
-    3) `cd beginning-clojure-emacs.d/`
-    4) `mkdir -p ~/.emacs.d`
-    5) `mv init.el ~/.emacs.d/`
 
-# Read online 
+# Resources
 * [Brave Clojure](https://www.braveclojure.com/foreword/)
 * [Living Clojure](https://www.oreilly.com/library/view/living-clojure/9781491909270/)
 
