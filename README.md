@@ -45,7 +45,8 @@ Setup Emacs with https://github.com/koljure/beginning-clojure-emacs.d
       3) `cd beginning-clojure-emacs.d/`
       4) `rm -rf $HOME/.emacs.d`
       4) `mkdir -p ~/.emacs.d`
-      5) `mv init.el ~/.emacs.d/`     
+      5) `mv init.el ~/.emacs.d/`  
+      Learn basics of emacs usage for clojure programming [here](https://www.braveclojure.com/basic-emacs/)    
 
 
 # Resources
