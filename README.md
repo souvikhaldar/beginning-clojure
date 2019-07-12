@@ -23,6 +23,7 @@
 - Superiority of FP
 
 # Setup
+Setup Emacs with https://github.com/koljure/beginning-clojure-emacs.d  
 * General 
   - A terminal client
   - Java 8 or higher
@@ -42,6 +43,7 @@
       1) `cd` into directory of choice.
       2) `git clone https://github.com/koljure/beginning-clojure-emacs.d.git`
       3) `cd beginning-clojure-emacs.d/`
+      4) `rm -rf $HOME/.emacs.d`
       4) `mkdir -p ~/.emacs.d`
       5) `mv init.el ~/.emacs.d/`     
 
