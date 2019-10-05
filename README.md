@@ -41,7 +41,8 @@ Setup Emacs with https://github.com/koljure/beginning-clojure-emacs.d
   - Install **Emacs** using *Brew* package manager- `brew cask install emacs`  
       Setup Emacs on Mac-  
       1) `git clone https://github.com/koljure/beginning-clojure-emacs.d.git`
-      2) `mkdir -p ~/.emacs.d && mv ./beginning.../init.el ~/.emacs.d/init.el`  
+      2) `mkdir -p ~/.emacs.d`
+      3) `mv ./beginning.../init.el ~/.emacs.d/init.el`  
 
 
 # Resources
