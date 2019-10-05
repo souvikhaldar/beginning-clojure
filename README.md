@@ -40,13 +40,9 @@ Setup Emacs with https://github.com/koljure/beginning-clojure-emacs.d
   - Install **Leiningen** using *Brew* package manager- `brew install leiningen`    
   - Install **Emacs** using *Brew* package manager- `brew cask install emacs`  
       Setup Emacs on Mac-  
-      1) `cd` into directory of choice.
-      2) `git clone https://github.com/koljure/beginning-clojure-emacs.d.git`
-      3) `cd beginning-clojure-emacs.d/`
-      4) `rm -rf $HOME/.emacs.d`
-      4) `mkdir -p ~/.emacs.d`
-      5) `mv init.el ~/.emacs.d/`  
-      Learn basics of emacs usage for clojure programming [here](https://www.braveclojure.com/basic-emacs/)    
+      1) `git clone https://github.com/koljure/beginning-clojure-emacs.d.git`
+      2) `mkdir -p ~/.emacs.d`
+      3) `mv ./beginning.../init.el ~/.emacs.d/init.el`  
 
 
 # Resources
